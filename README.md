@@ -51,8 +51,7 @@ The project was carried out using *Microsoft Excel* through the following steps:
 10. Created an interactive Excel dashboard using charts and visualizations.
 
 ## Dashboard
-
-The Excel dashboard presents the results of the EHR usage assessment.
+![EHR Usage Analysis Dashboard](Excel%20Wokbook/Dashboard%20screenshot.png)
 
 ### Key Metrics
 
