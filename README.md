@@ -65,7 +65,7 @@ The Excel dashboard presents the results of the EHR usage assessment.
 
 ### Dashboard Visualizations
 
-[View EHR Usage Analysis Dashboard](Excel%20workbook/Dashboard%20Screenshot.png)
+[View EHR Usage Analysis Dashboard](Excel%20Wokbook/Dashboard%20Screenshot.png)
 ## 6. Key Insights
 
 The analysis produced the following findings:
