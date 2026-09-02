@@ -65,13 +65,8 @@ The Excel dashboard presents the results of the EHR usage assessment.
 
 ### Dashboard Visualizations
 
-- *Respondents Category* – Bar Chart
-- *Gender Distribution* – Pie Chart
-- *Age Group Distribution* – Bar Chart
-- *Frequency of EHR Usage* – Bar Chart
-- *Biggest Challenges Affecting EHR Usage* – Bar Chart
-- *Top Suggestions for Improving EHR Usage* – Bar Chart
-![EHR Usage Analysis Dashboard](Excel%20workbook/Dashboard.png)
+
+  ![EHR Usage Analysis Dashboard](Excel%20workbook/Dashboard%20screenshot.png)
 ## 6. Key Insights
 
 The analysis produced the following findings:
